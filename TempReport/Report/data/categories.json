@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expected [nopCommerce demo store] but found [nopCommerce demo store. Login]",
+      "children" : [ {
+        "name" : "Verify login",
+        "uid" : "a40fae8f77e66b4a",
+        "parentUid" : "8c9e37c9336332a5f01a275af466f1c3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1581672760720,
+          "stop" : 1581672765872,
+          "duration" : 5152
+        },
+        "flaky" : true,
+        "newFailed" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8c9e37c9336332a5f01a275af466f1c3"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

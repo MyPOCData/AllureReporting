@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Fri Feb 14 15:02:40 IST 2020","Fri Feb 14 15:02:45 IST 2020","5152","Suite","Test","allureReports.Tests","allureReports.Tests","loginTest","Verify login","Verify login with Valid Credentials........"
+"passed","Fri Feb 14 15:03:00 IST 2020","Fri Feb 14 15:03:00 IST 2020","11","Suite","Test","allureReports.Tests","allureReports.Tests","registration11Test","Verify user Registration11","Verify user Registration11........"
+"passed","Fri Feb 14 15:02:55 IST 2020","Fri Feb 14 15:02:55 IST 2020","12","Suite","Test","allureReports.Tests","allureReports.Tests","registration1Test","Verify user Registration1","Verify user Registration1........"
+"passed","Fri Feb 14 15:02:32 IST 2020","Fri Feb 14 15:02:35 IST 2020","2869","Suite","Test","allureReports.Tests","allureReports.Tests","logoPresence","Verify Logo presence on Home Page","Verify Logo presence on Home Page........"
+"skipped","Fri Feb 14 15:02:50 IST 2020","Fri Feb 14 15:02:50 IST 2020","0","Suite","Test","allureReports.Tests","allureReports.Tests","registrationTest","Verify user Registration","Verify user Registration........"

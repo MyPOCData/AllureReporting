@@ -1,0 +1,78 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LTB0206984-Mac.local",
+    "children" : [ {
+      "name" : "63080@LTB0206984-Mac.local.main(1)",
+      "children" : [ {
+        "name" : "Verify login",
+        "uid" : "a40fae8f77e66b4a",
+        "parentUid" : "dbd73ec47bd40b421fe89bc2bf8b8028",
+        "status" : "failed",
+        "time" : {
+          "start" : 1581672760720,
+          "stop" : 1581672765872,
+          "duration" : 5152
+        },
+        "flaky" : true,
+        "newFailed" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify user Registration1",
+        "uid" : "594f0c7383f219d2",
+        "parentUid" : "dbd73ec47bd40b421fe89bc2bf8b8028",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581672775908,
+          "stop" : 1581672775920,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify user Registration",
+        "uid" : "9f4a8c890c234654",
+        "parentUid" : "dbd73ec47bd40b421fe89bc2bf8b8028",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1581672770895,
+          "stop" : 1581672770895,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify user Registration11",
+        "uid" : "4a1bad46eb85a7ba",
+        "parentUid" : "dbd73ec47bd40b421fe89bc2bf8b8028",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581672780931,
+          "stop" : 1581672780942,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify Logo presence on Home Page",
+        "uid" : "8627b37f6394a8f",
+        "parentUid" : "dbd73ec47bd40b421fe89bc2bf8b8028",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581672752831,
+          "stop" : 1581672755700,
+          "duration" : 2869
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dbd73ec47bd40b421fe89bc2bf8b8028"
+    } ],
+    "uid" : "be37efec281360dc6159619a911d71e1"
+  } ]
+}

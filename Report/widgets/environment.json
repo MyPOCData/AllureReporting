@@ -1,0 +1,10 @@
+[ {
+  "values" : [ "70.0.3538.77" ],
+  "name" : "Browser.Version"
+}, {
+  "values" : [ "https://demo.nopcommerce.com/" ],
+  "name" : "URL"
+}, {
+  "values" : [ "Chrome" ],
+  "name" : "Browser"
+} ]

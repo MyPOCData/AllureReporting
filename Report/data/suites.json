@@ -1,0 +1,82 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Suite",
+    "children" : [ {
+      "name" : "Test",
+      "children" : [ {
+        "name" : "allureReports.Tests",
+        "children" : [ {
+          "name" : "Verify Logo presence on Home Page",
+          "uid" : "8627b37f6394a8f",
+          "parentUid" : "1a5e340e0136fd2f223bfee56de80011",
+          "status" : "passed",
+          "time" : {
+            "start" : 1581672752831,
+            "stop" : 1581672755700,
+            "duration" : 2869
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Verify login",
+          "uid" : "a40fae8f77e66b4a",
+          "parentUid" : "1a5e340e0136fd2f223bfee56de80011",
+          "status" : "failed",
+          "time" : {
+            "start" : 1581672760720,
+            "stop" : 1581672765872,
+            "duration" : 5152
+          },
+          "flaky" : true,
+          "newFailed" : true,
+          "parameters" : [ ]
+        }, {
+          "name" : "Verify user Registration",
+          "uid" : "9f4a8c890c234654",
+          "parentUid" : "1a5e340e0136fd2f223bfee56de80011",
+          "status" : "skipped",
+          "time" : {
+            "start" : 1581672770895,
+            "stop" : 1581672770895,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Verify user Registration1",
+          "uid" : "594f0c7383f219d2",
+          "parentUid" : "1a5e340e0136fd2f223bfee56de80011",
+          "status" : "passed",
+          "time" : {
+            "start" : 1581672775908,
+            "stop" : 1581672775920,
+            "duration" : 12
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Verify user Registration11",
+          "uid" : "4a1bad46eb85a7ba",
+          "parentUid" : "1a5e340e0136fd2f223bfee56de80011",
+          "status" : "passed",
+          "time" : {
+            "start" : 1581672780931,
+            "stop" : 1581672780942,
+            "duration" : 11
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "1a5e340e0136fd2f223bfee56de80011"
+      } ],
+      "uid" : "7314231e84d67a341867b5c9d3f928d2"
+    } ],
+    "uid" : "29f4dcc45a0e26cd7c7462063cee854b"
+  } ]
+}
