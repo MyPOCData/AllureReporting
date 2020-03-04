@@ -15,3 +15,25 @@
 7. To publish report use : https://app.netlify.com/sites/focused-liskov-00f75d/deploys
 
 8. Drop Report folder in it.
+
+
+# Tesseract (Get Text from image)
+
+1. Install tesseract (default eng language):
+	  brew install tesseract 
+
+2. For other language : 
+	  brew install tesseract-lang
+
+3. Run this command:
+	  brew link --overwrite tesseract
+
+4. Go to tesseract location:
+	  cd /usr/local/Cellar/tesseract/4.1.1/include
+
+5. Get Text from give image : 
+	  tesseract <location of image file> <location, where we want to save text> -l eng
+
+Exp:
+	LTB0206984-Mac:include b0097042$ tesseract /Users/b0097042/Downloads/Hackathon.jpeg /Users/b0097042/Downloads/textabc-eng -l eng
+
