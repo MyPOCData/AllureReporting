@@ -1,0 +1,223 @@
+{
+  "uid" : "e3ee0ef8a34e1825",
+  "name" : "Verify Logo presence on Home Page",
+  "fullName" : "allureReports.Tests.logoPresence",
+  "historyId" : "95d7374df39da895a482380a7bab51d7",
+  "time" : {
+    "start" : 1581681752437,
+    "stop" : 1581681755475,
+    "duration" : 3038
+  },
+  "description" : "Verify Logo presence on Home Page........",
+  "descriptionHtml" : "<p>Verify Logo presence on Home Page........</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "videoRecord",
+    "time" : {
+      "start" : 1581681742208,
+      "stop" : 1581681742208,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1581681728733,
+      "stop" : 1581681742186,
+      "duration" : 13453
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Verify Logo presence on Home Page........",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Verify logo Presence",
+      "time" : {
+        "start" : 1581681752454,
+        "stop" : 1581681755456,
+        "duration" : 3002
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "2a82749ea8080c84",
+      "name" : "video",
+      "source" : "2a82749ea8080c84.qt",
+      "type" : "video/quicktime",
+      "size" : 548773
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "stopRecoding",
+    "time" : {
+      "start" : 1581681755489,
+      "stop" : 1581681755490,
+      "duration" : 1
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1581681780571,
+      "stop" : 1581681780722,
+      "duration" : 151
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "allureReports.Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "allureReports.Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "logoPresence"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "allureReports.Tests"
+  }, {
+    "name" : "host",
+    "value" : "LTB0206984-Mac.local"
+  }, {
+    "name" : "thread",
+    "value" : "80915@LTB0206984-Mac.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Story:Logo Presence"
+  }, {
+    "name" : "feature",
+    "value" : "Feature1: Logo"
+  }, {
+    "name" : "epic",
+    "value" : "EP001"
+  }, {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 11,
+        "unknown" : 0,
+        "total" : 11
+      },
+      "items" : [ {
+        "uid" : "8627b37f6394a8f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581672752831,
+          "stop" : 1581672755700,
+          "duration" : 2869
+        }
+      }, {
+        "uid" : "406bb659f5e126b3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581672271720,
+          "stop" : 1581672275256,
+          "duration" : 3536
+        }
+      }, {
+        "uid" : "4de2726ba8f4cbf3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581406685802,
+          "stop" : 1581406688544,
+          "duration" : 2742
+        }
+      }, {
+        "uid" : "e33d3791f239189b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581404105779,
+          "stop" : 1581404108791,
+          "duration" : 3012
+        }
+      }, {
+        "uid" : "b3626baafc191c14",
+        "status" : "passed",
+        "time" : {
+          "start" : 1580673880517,
+          "stop" : 1580673883403,
+          "duration" : 2886
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "e3ee0ef8a34e1825.json",
+  "parameterValues" : [ ]
+}

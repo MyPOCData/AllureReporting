@@ -1,0 +1,66 @@
+ 
+
+C4 Skype for Business File Edit Contacts Conversations Window Help
+
+ 
+
+ 
+
+What are the different test data sources (Excel, XML, DB, etc)?
+
+= Application data is retrieved from data fabric (PAC, GRS) however the calcu-
+lations are performed in middle tier
+
+= Models are developed in excel by BAs and then exported to XML and then
+put in tests for comparison
+
+High Level Requirements:
+
+= The system should be able to calculate the Portfolio Risk exposure.
+
+= Transformation layer to be implemented over the main data residing
+in Main data fabric and accordingly the data should be populated in
+AAPE database
+
+Screens 4-5 of 7
+
+Having issues logging in?
+Reset vour password
+
+ 
+
+WM g SZ m) 100% Ba» Wed15 May 3:24PM B0097042 Q @:
+
+= The Risk exposure range should be validated by the ranges defined
+in the downstream compliance system
+
+= The server on which the AAPE resides will have its own security to
+prevent unauthorized write/delete access. There is no restriction on
+read access.
+
+Test Suite Objectives:
+e Test Suite to verify correctness of calculations
+
+e To verify the behaviour of system is as expected
+
+Some information is provided about current state of testing for other application ar-
+eas:
+
+Type of the Applications? Web applications
+Who are the users who use the Test Suite? (BA, Dev, and QA)
+
+What is the testing procedure? Based on bandwidth of Dev/ QA/BA, anyone pitches
+to do testing
+
+How many releases are planned for each application? One release every 4 weeks
+How many test execution cycles are planned per release? Random, need based
+What is the effort required to run one test cycle manually? Difficult to estimate
+How often and how many bugs were reported in the recent test cycles?
+
+= There aren’t any big issues open. Two issues were found because of an er-
+roneous requirement and fixed in last iteration deployed.
+
+* Total of 12 bugs opened so far, 1 P1 that is basically a control issue
+
+Part B Questions:
+

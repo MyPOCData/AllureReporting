@@ -2,36 +2,36 @@
 <testng-results skipped="1" failed="1" ignored="0" total="5" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="52285" started-at="2020-02-14T15:02:08 IST" finished-at="2020-02-14T15:03:01 IST">
+  <suite name="Suite" duration-ms="52012" started-at="2020-02-14T17:32:08 IST" finished-at="2020-02-14T17:33:00 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="52285" started-at="2020-02-14T15:02:08 IST" finished-at="2020-02-14T15:03:01 IST">
+    <test name="Test" duration-ms="52012" started-at="2020-02-14T17:32:08 IST" finished-at="2020-02-14T17:33:00 IST">
       <class name="allureReports.Tests">
-        <test-method status="PASS" signature="cleanResults()[pri:0, instance:allureReports.Tests@2f4854d6]" name="cleanResults" is-config="true" duration-ms="233" started-at="2020-02-14T15:02:08 IST" finished-at="2020-02-14T15:02:08 IST">
+        <test-method status="PASS" signature="cleanResults()[pri:0, instance:allureReports.Tests@2f4854d6]" name="cleanResults" is-config="true" duration-ms="188" started-at="2020-02-14T17:32:08 IST" finished-at="2020-02-14T17:32:08 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cleanResults -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:allureReports.Tests@2f4854d6]" name="setUp" is-config="true" duration-ms="13557" started-at="2020-02-14T15:02:08 IST" finished-at="2020-02-14T15:02:22 IST">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:allureReports.Tests@2f4854d6]" name="setUp" is-config="true" duration-ms="13453" started-at="2020-02-14T17:32:08 IST" finished-at="2020-02-14T17:32:22 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="videoRecord()[pri:0, instance:allureReports.Tests@2f4854d6]" name="videoRecord" is-config="true" duration-ms="2" started-at="2020-02-14T15:02:22 IST" finished-at="2020-02-14T15:02:22 IST">
+        <test-method status="PASS" signature="videoRecord()[pri:0, instance:allureReports.Tests@2f4854d6]" name="videoRecord" is-config="true" duration-ms="0" started-at="2020-02-14T17:32:22 IST" finished-at="2020-02-14T17:32:22 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- videoRecord -->
-        <test-method status="PASS" signature="logoPresence()[pri:1, instance:allureReports.Tests@2f4854d6]" name="logoPresence" duration-ms="12907" started-at="2020-02-14T15:02:22 IST" description="Verify Logo presence on Home Page" finished-at="2020-02-14T15:02:35 IST">
+        <test-method status="PASS" signature="logoPresence()[pri:1, instance:allureReports.Tests@2f4854d6]" name="logoPresence" duration-ms="13069" started-at="2020-02-14T17:32:22 IST" description="Verify Logo presence on Home Page" finished-at="2020-02-14T17:32:35 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoPresence -->
-        <test-method status="PASS" signature="stopRecoding()[pri:0, instance:allureReports.Tests@2f4854d6]" name="stopRecoding" is-config="true" duration-ms="1" started-at="2020-02-14T15:02:35 IST" finished-at="2020-02-14T15:02:35 IST">
+        <test-method status="PASS" signature="stopRecoding()[pri:0, instance:allureReports.Tests@2f4854d6]" name="stopRecoding" is-config="true" duration-ms="0" started-at="2020-02-14T17:32:35 IST" finished-at="2020-02-14T17:32:35 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- stopRecoding -->
-        <test-method status="PASS" signature="videoRecord()[pri:0, instance:allureReports.Tests@2f4854d6]" name="videoRecord" is-config="true" duration-ms="0" started-at="2020-02-14T15:02:35 IST" finished-at="2020-02-14T15:02:35 IST">
+        <test-method status="PASS" signature="videoRecord()[pri:0, instance:allureReports.Tests@2f4854d6]" name="videoRecord" is-config="true" duration-ms="0" started-at="2020-02-14T17:32:35 IST" finished-at="2020-02-14T17:32:35 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- videoRecord -->
-        <test-method status="FAIL" signature="loginTest()[pri:2, instance:allureReports.Tests@2f4854d6]" name="loginTest" duration-ms="9521" started-at="2020-02-14T15:02:35 IST" description="Verify login" finished-at="2020-02-14T15:02:45 IST">
+        <test-method status="FAIL" signature="loginTest()[pri:2, instance:allureReports.Tests@2f4854d6]" name="loginTest" duration-ms="9210" started-at="2020-02-14T17:32:35 IST" description="Verify login" finished-at="2020-02-14T17:32:44 IST">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [nopCommerce demo store] but found [nopCommerce demo store. Login]]]>
@@ -81,15 +81,15 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="stopRecoding()[pri:0, instance:allureReports.Tests@2f4854d6]" name="stopRecoding" is-config="true" duration-ms="0" started-at="2020-02-14T15:02:45 IST" finished-at="2020-02-14T15:02:45 IST">
+        <test-method status="PASS" signature="stopRecoding()[pri:0, instance:allureReports.Tests@2f4854d6]" name="stopRecoding" is-config="true" duration-ms="0" started-at="2020-02-14T17:32:45 IST" finished-at="2020-02-14T17:32:45 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- stopRecoding -->
-        <test-method status="PASS" signature="videoRecord()[pri:0, instance:allureReports.Tests@2f4854d6]" name="videoRecord" is-config="true" duration-ms="1" started-at="2020-02-14T15:02:45 IST" finished-at="2020-02-14T15:02:45 IST">
+        <test-method status="PASS" signature="videoRecord()[pri:0, instance:allureReports.Tests@2f4854d6]" name="videoRecord" is-config="true" duration-ms="0" started-at="2020-02-14T17:32:45 IST" finished-at="2020-02-14T17:32:45 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- videoRecord -->
-        <test-method status="SKIP" signature="registrationTest()[pri:3, instance:allureReports.Tests@2f4854d6]" name="registrationTest" duration-ms="5006" started-at="2020-02-14T15:02:45 IST" description="Verify user Registration" finished-at="2020-02-14T15:02:50 IST">
+        <test-method status="SKIP" signature="registrationTest()[pri:3, instance:allureReports.Tests@2f4854d6]" name="registrationTest" duration-ms="5008" started-at="2020-02-14T17:32:45 IST" description="Verify user Registration" finished-at="2020-02-14T17:32:50 IST">
           <exception class="org.testng.SkipException">
             <message>
               <![CDATA[Skipping this Test]]>
@@ -134,39 +134,39 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registrationTest -->
-        <test-method status="PASS" signature="stopRecoding()[pri:0, instance:allureReports.Tests@2f4854d6]" name="stopRecoding" is-config="true" duration-ms="1" started-at="2020-02-14T15:02:50 IST" finished-at="2020-02-14T15:02:50 IST">
+        <test-method status="PASS" signature="stopRecoding()[pri:0, instance:allureReports.Tests@2f4854d6]" name="stopRecoding" is-config="true" duration-ms="0" started-at="2020-02-14T17:32:50 IST" finished-at="2020-02-14T17:32:50 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- stopRecoding -->
-        <test-method status="PASS" signature="videoRecord()[pri:0, instance:allureReports.Tests@2f4854d6]" name="videoRecord" is-config="true" duration-ms="0" started-at="2020-02-14T15:02:50 IST" finished-at="2020-02-14T15:02:50 IST">
+        <test-method status="PASS" signature="videoRecord()[pri:0, instance:allureReports.Tests@2f4854d6]" name="videoRecord" is-config="true" duration-ms="0" started-at="2020-02-14T17:32:50 IST" finished-at="2020-02-14T17:32:50 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- videoRecord -->
-        <test-method status="PASS" signature="registration1Test()[pri:4, instance:allureReports.Tests@2f4854d6]" name="registration1Test" duration-ms="5009" started-at="2020-02-14T15:02:50 IST" description="Verify user Registration1" finished-at="2020-02-14T15:02:55 IST">
+        <test-method status="PASS" signature="registration1Test()[pri:4, instance:allureReports.Tests@2f4854d6]" name="registration1Test" duration-ms="5007" started-at="2020-02-14T17:32:50 IST" description="Verify user Registration1" finished-at="2020-02-14T17:32:55 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registration1Test -->
-        <test-method status="PASS" signature="stopRecoding()[pri:0, instance:allureReports.Tests@2f4854d6]" name="stopRecoding" is-config="true" duration-ms="1" started-at="2020-02-14T15:02:55 IST" finished-at="2020-02-14T15:02:55 IST">
+        <test-method status="PASS" signature="stopRecoding()[pri:0, instance:allureReports.Tests@2f4854d6]" name="stopRecoding" is-config="true" duration-ms="1" started-at="2020-02-14T17:32:55 IST" finished-at="2020-02-14T17:32:55 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- stopRecoding -->
-        <test-method status="PASS" signature="videoRecord()[pri:0, instance:allureReports.Tests@2f4854d6]" name="videoRecord" is-config="true" duration-ms="0" started-at="2020-02-14T15:02:55 IST" finished-at="2020-02-14T15:02:55 IST">
+        <test-method status="PASS" signature="videoRecord()[pri:0, instance:allureReports.Tests@2f4854d6]" name="videoRecord" is-config="true" duration-ms="0" started-at="2020-02-14T17:32:55 IST" finished-at="2020-02-14T17:32:55 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- videoRecord -->
-        <test-method status="PASS" signature="registration11Test()[pri:5, instance:allureReports.Tests@2f4854d6]" name="registration11Test" duration-ms="5007" started-at="2020-02-14T15:02:55 IST" description="Verify user Registration11" finished-at="2020-02-14T15:03:00 IST">
+        <test-method status="PASS" signature="registration11Test()[pri:5, instance:allureReports.Tests@2f4854d6]" name="registration11Test" duration-ms="5007" started-at="2020-02-14T17:32:55 IST" description="Verify user Registration11" finished-at="2020-02-14T17:33:00 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registration11Test -->
-        <test-method status="PASS" signature="stopRecoding()[pri:0, instance:allureReports.Tests@2f4854d6]" name="stopRecoding" is-config="true" duration-ms="1" started-at="2020-02-14T15:03:00 IST" finished-at="2020-02-14T15:03:00 IST">
+        <test-method status="PASS" signature="stopRecoding()[pri:0, instance:allureReports.Tests@2f4854d6]" name="stopRecoding" is-config="true" duration-ms="1" started-at="2020-02-14T17:33:00 IST" finished-at="2020-02-14T17:33:00 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- stopRecoding -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:allureReports.Tests@2f4854d6]" name="tearDown" is-config="true" duration-ms="141" started-at="2020-02-14T15:03:00 IST" finished-at="2020-02-14T15:03:01 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:allureReports.Tests@2f4854d6]" name="tearDown" is-config="true" duration-ms="152" started-at="2020-02-14T17:33:00 IST" finished-at="2020-02-14T17:33:00 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="reportGen()[pri:0, instance:allureReports.Tests@2f4854d6]" name="reportGen" is-config="true" duration-ms="8075" started-at="2020-02-14T15:03:06 IST" finished-at="2020-02-14T15:03:14 IST">
+        <test-method status="PASS" signature="reportGen()[pri:0, instance:allureReports.Tests@2f4854d6]" name="reportGen" is-config="true" duration-ms="8051" started-at="2020-02-14T17:33:05 IST" finished-at="2020-02-14T17:33:13 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reportGen -->

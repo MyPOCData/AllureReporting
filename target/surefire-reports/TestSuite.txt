@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 1, Errors: 0, Skipped: 1, Time elapsed: 72.427 s <<< FAILURE! - in TestSuite
-loginTest(allureReports.Tests)  Time elapsed: 5.166 s  <<< FAILURE!
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 1, Time elapsed: 71.946 s <<< FAILURE! - in TestSuite
+loginTest(allureReports.Tests)  Time elapsed: 5.01 s  <<< FAILURE!
 java.lang.AssertionError: expected [nopCommerce demo store] but found [nopCommerce demo store. Login]
 	at allureReports.Tests.loginTest(Tests.java:83)
 

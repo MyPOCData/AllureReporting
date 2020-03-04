@@ -1,0 +1,208 @@
+{
+  "uid" : "7a5776d260edb9ba",
+  "name" : "Verify user Registration11",
+  "fullName" : "allureReports.Tests.registration11Test",
+  "historyId" : "f16c2b0aa473aadded44e35d578b757",
+  "time" : {
+    "start" : 1581681780556,
+    "stop" : 1581681780563,
+    "duration" : 7
+  },
+  "description" : "Verify user Registration11........",
+  "descriptionHtml" : "<p>Verify user Registration11........</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "videoRecord",
+    "time" : {
+      "start" : 1581681775546,
+      "stop" : 1581681775546,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1581681728733,
+      "stop" : 1581681742186,
+      "duration" : 13453
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Verify user Registration11........",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "dfdff771f9a0f73e",
+      "name" : "video",
+      "source" : "dfdff771f9a0f73e.qt",
+      "type" : "video/quicktime",
+      "size" : 1479740
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "stopRecoding",
+    "time" : {
+      "start" : 1581681780569,
+      "stop" : 1581681780569,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1581681780571,
+      "stop" : 1581681780722,
+      "duration" : 151
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "allureReports.Tests"
+  }, {
+    "name" : "testClass",
+    "value" : "allureReports.Tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "registration11Test"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "allureReports.Tests"
+  }, {
+    "name" : "host",
+    "value" : "LTB0206984-Mac.local"
+  }, {
+    "name" : "thread",
+    "value" : "80915@LTB0206984-Mac.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Feature3: Registration11"
+  }, {
+    "name" : "epic",
+    "value" : "EP001"
+  }, {
+    "name" : "story",
+    "value" : "Story:User registration11"
+  }, {
+    "name" : "severity",
+    "value" : "trivial"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "trivial",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 8,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "4a1bad46eb85a7ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581672780931,
+          "stop" : 1581672780942,
+          "duration" : 11
+        }
+      }, {
+        "uid" : "68becf933203e85f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581672302891,
+          "stop" : 1581672302894,
+          "duration" : 3
+        }
+      }, {
+        "uid" : "727a3b952e3b3120",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581406714211,
+          "stop" : 1581406714221,
+          "duration" : 10
+        }
+      }, {
+        "uid" : "4e55b680bfdebfd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1581404134334,
+          "stop" : 1581404134344,
+          "duration" : 10
+        }
+      }, {
+        "uid" : "7642ef3cd35e715e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1580673914996,
+          "stop" : 1580673915008,
+          "duration" : 12
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "7a5776d260edb9ba.json",
+  "parameterValues" : [ ]
+}

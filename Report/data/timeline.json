@@ -4,74 +4,74 @@
   "children" : [ {
     "name" : "LTB0206984-Mac.local",
     "children" : [ {
-      "name" : "63080@LTB0206984-Mac.local.main(1)",
+      "name" : "80915@LTB0206984-Mac.local.main(1)",
       "children" : [ {
         "name" : "Verify login",
-        "uid" : "a40fae8f77e66b4a",
-        "parentUid" : "dbd73ec47bd40b421fe89bc2bf8b8028",
+        "uid" : "b059ad68ab7ca41d",
+        "parentUid" : "a702e665acae7979be019f5ba7bd9c26",
         "status" : "failed",
         "time" : {
-          "start" : 1581672760720,
-          "stop" : 1581672765872,
-          "duration" : 5152
+          "start" : 1581681760500,
+          "stop" : 1581681765493,
+          "duration" : 4993
         },
         "flaky" : true,
-        "newFailed" : true,
-        "parameters" : [ ]
-      }, {
-        "name" : "Verify user Registration1",
-        "uid" : "594f0c7383f219d2",
-        "parentUid" : "dbd73ec47bd40b421fe89bc2bf8b8028",
-        "status" : "passed",
-        "time" : {
-          "start" : 1581672775908,
-          "stop" : 1581672775920,
-          "duration" : 12
-        },
-        "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
-        "name" : "Verify user Registration",
-        "uid" : "9f4a8c890c234654",
-        "parentUid" : "dbd73ec47bd40b421fe89bc2bf8b8028",
-        "status" : "skipped",
+        "name" : "Verify user Registration1",
+        "uid" : "86bcae333d61e377",
+        "parentUid" : "a702e665acae7979be019f5ba7bd9c26",
+        "status" : "passed",
         "time" : {
-          "start" : 1581672770895,
-          "stop" : 1581672770895,
-          "duration" : 0
+          "start" : 1581681775533,
+          "stop" : 1581681775543,
+          "duration" : 10
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "Verify user Registration11",
-        "uid" : "4a1bad46eb85a7ba",
-        "parentUid" : "dbd73ec47bd40b421fe89bc2bf8b8028",
+        "uid" : "7a5776d260edb9ba",
+        "parentUid" : "a702e665acae7979be019f5ba7bd9c26",
         "status" : "passed",
         "time" : {
-          "start" : 1581672780931,
-          "stop" : 1581672780942,
-          "duration" : 11
+          "start" : 1581681780556,
+          "stop" : 1581681780563,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Verify user Registration",
+        "uid" : "b17127495aa764a5",
+        "parentUid" : "a702e665acae7979be019f5ba7bd9c26",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1581681770521,
+          "stop" : 1581681770522,
+          "duration" : 1
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "Verify Logo presence on Home Page",
-        "uid" : "8627b37f6394a8f",
-        "parentUid" : "dbd73ec47bd40b421fe89bc2bf8b8028",
+        "uid" : "e3ee0ef8a34e1825",
+        "parentUid" : "a702e665acae7979be019f5ba7bd9c26",
         "status" : "passed",
         "time" : {
-          "start" : 1581672752831,
-          "stop" : 1581672755700,
-          "duration" : 2869
+          "start" : 1581681752437,
+          "stop" : 1581681755475,
+          "duration" : 3038
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "dbd73ec47bd40b421fe89bc2bf8b8028"
+      "uid" : "a702e665acae7979be019f5ba7bd9c26"
     } ],
     "uid" : "be37efec281360dc6159619a911d71e1"
   } ]

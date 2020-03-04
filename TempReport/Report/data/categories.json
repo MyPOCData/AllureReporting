@@ -7,16 +7,16 @@
       "name" : "expected [nopCommerce demo store] but found [nopCommerce demo store. Login]",
       "children" : [ {
         "name" : "Verify login",
-        "uid" : "a40fae8f77e66b4a",
+        "uid" : "b059ad68ab7ca41d",
         "parentUid" : "8c9e37c9336332a5f01a275af466f1c3",
         "status" : "failed",
         "time" : {
-          "start" : 1581672760720,
-          "stop" : 1581672765872,
-          "duration" : 5152
+          "start" : 1581681760500,
+          "stop" : 1581681765493,
+          "duration" : 4993
         },
         "flaky" : true,
-        "newFailed" : true,
+        "newFailed" : false,
         "parameters" : [ ]
       } ],
       "uid" : "8c9e37c9336332a5f01a275af466f1c3"

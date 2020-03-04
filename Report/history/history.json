@@ -4,11 +4,19 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 10,
+      "passed" : 11,
       "unknown" : 0,
-      "total" : 10
+      "total" : 11
     },
     "items" : [ {
+      "uid" : "86bcae333d61e377",
+      "status" : "passed",
+      "time" : {
+        "start" : 1581681775533,
+        "stop" : 1581681775543,
+        "duration" : 10
+      }
+    }, {
       "uid" : "594f0c7383f219d2",
       "status" : "passed",
       "time" : {
@@ -40,26 +48,27 @@
         "stop" : 1581404129325,
         "duration" : 12
       }
-    }, {
-      "uid" : "5cbac67520f1b3ea",
-      "status" : "passed",
-      "time" : {
-        "start" : 1580673909969,
-        "stop" : 1580673909989,
-        "duration" : 20
-      }
     } ]
   },
   "9961e6aa8bc56b6fc0bae7a7991426a6" : {
     "statistic" : {
-      "failed" : 6,
+      "failed" : 7,
       "broken" : 0,
       "skipped" : 0,
       "passed" : 4,
       "unknown" : 0,
-      "total" : 10
+      "total" : 11
     },
     "items" : [ {
+      "uid" : "b059ad68ab7ca41d",
+      "status" : "failed",
+      "statusDetails" : "expected [nopCommerce demo store] but found [nopCommerce demo store. Login]",
+      "time" : {
+        "start" : 1581681760500,
+        "stop" : 1581681765493,
+        "duration" : 4993
+      }
+    }, {
       "uid" : "a40fae8f77e66b4a",
       "status" : "failed",
       "statusDetails" : "expected [nopCommerce demo store] but found [nopCommerce demo store. Login]",
@@ -94,26 +103,27 @@
         "stop" : 1581404119281,
         "duration" : 5467
       }
-    }, {
-      "uid" : "2ab584243b047662",
-      "status" : "passed",
-      "time" : {
-        "start" : 1580673888436,
-        "stop" : 1580673899936,
-        "duration" : 11500
-      }
     } ]
   },
   "dc82d778ea68a96b4889ea838b4497dd" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 10,
+      "skipped" : 11,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 10
+      "total" : 11
     },
     "items" : [ {
+      "uid" : "b17127495aa764a5",
+      "status" : "skipped",
+      "statusDetails" : "Skipping this Test",
+      "time" : {
+        "start" : 1581681770521,
+        "stop" : 1581681770522,
+        "duration" : 1
+      }
+    }, {
       "uid" : "9f4a8c890c234654",
       "status" : "skipped",
       "statusDetails" : "Skipping this Test",
@@ -149,15 +159,6 @@
         "stop" : 1581404124304,
         "duration" : 1
       }
-    }, {
-      "uid" : "c7a29acc0edd6dcd",
-      "status" : "skipped",
-      "statusDetails" : "Skipping this Test",
-      "time" : {
-        "start" : 1580673904954,
-        "stop" : 1580673904956,
-        "duration" : 2
-      }
     } ]
   },
   "f16c2b0aa473aadded44e35d578b757" : {
@@ -165,11 +166,19 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 7,
+      "passed" : 8,
       "unknown" : 0,
-      "total" : 7
+      "total" : 8
     },
     "items" : [ {
+      "uid" : "7a5776d260edb9ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1581681780556,
+        "stop" : 1581681780563,
+        "duration" : 7
+      }
+    }, {
       "uid" : "4a1bad46eb85a7ba",
       "status" : "passed",
       "time" : {
@@ -201,14 +210,6 @@
         "stop" : 1581404134344,
         "duration" : 10
       }
-    }, {
-      "uid" : "7642ef3cd35e715e",
-      "status" : "passed",
-      "time" : {
-        "start" : 1580673914996,
-        "stop" : 1580673915008,
-        "duration" : 12
-      }
     } ]
   },
   "95d7374df39da895a482380a7bab51d7" : {
@@ -216,11 +217,19 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 10,
+      "passed" : 11,
       "unknown" : 0,
-      "total" : 10
+      "total" : 11
     },
     "items" : [ {
+      "uid" : "e3ee0ef8a34e1825",
+      "status" : "passed",
+      "time" : {
+        "start" : 1581681752437,
+        "stop" : 1581681755475,
+        "duration" : 3038
+      }
+    }, {
       "uid" : "8627b37f6394a8f",
       "status" : "passed",
       "time" : {
@@ -251,14 +260,6 @@
         "start" : 1581404105779,
         "stop" : 1581404108791,
         "duration" : 3012
-      }
-    }, {
-      "uid" : "b3626baafc191c14",
-      "status" : "passed",
-      "time" : {
-        "start" : 1580673880517,
-        "stop" : 1580673883403,
-        "duration" : 2886
       }
     } ]
   }

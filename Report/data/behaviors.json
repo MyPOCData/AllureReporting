@@ -9,13 +9,13 @@
         "name" : "Story:Logo Presence",
         "children" : [ {
           "name" : "Verify Logo presence on Home Page",
-          "uid" : "8627b37f6394a8f",
+          "uid" : "e3ee0ef8a34e1825",
           "parentUid" : "5c9ada9399fc8b30409a7d163e2dbc3d",
           "status" : "passed",
           "time" : {
-            "start" : 1581672752831,
-            "stop" : 1581672755700,
-            "duration" : 2869
+            "start" : 1581681752437,
+            "stop" : 1581681755475,
+            "duration" : 3038
           },
           "flaky" : false,
           "newFailed" : false,
@@ -30,16 +30,16 @@
         "name" : "Story:Valid login",
         "children" : [ {
           "name" : "Verify login",
-          "uid" : "a40fae8f77e66b4a",
+          "uid" : "b059ad68ab7ca41d",
           "parentUid" : "6b0e85337ba687c5d1dacdd2ccfdb6d3",
           "status" : "failed",
           "time" : {
-            "start" : 1581672760720,
-            "stop" : 1581672765872,
-            "duration" : 5152
+            "start" : 1581681760500,
+            "stop" : 1581681765493,
+            "duration" : 4993
           },
           "flaky" : true,
-          "newFailed" : true,
+          "newFailed" : false,
           "parameters" : [ ]
         } ],
         "uid" : "6b0e85337ba687c5d1dacdd2ccfdb6d3"
@@ -51,13 +51,13 @@
         "name" : "Story:User registration",
         "children" : [ {
           "name" : "Verify user Registration",
-          "uid" : "9f4a8c890c234654",
+          "uid" : "b17127495aa764a5",
           "parentUid" : "f76bfdfded6289e1ebfd7978cb738fe0",
           "status" : "skipped",
           "time" : {
-            "start" : 1581672770895,
-            "stop" : 1581672770895,
-            "duration" : 0
+            "start" : 1581681770521,
+            "stop" : 1581681770522,
+            "duration" : 1
           },
           "flaky" : false,
           "newFailed" : false,
@@ -72,13 +72,13 @@
         "name" : "Story:User registration1",
         "children" : [ {
           "name" : "Verify user Registration1",
-          "uid" : "594f0c7383f219d2",
+          "uid" : "86bcae333d61e377",
           "parentUid" : "854df9905ec873794371102fdbc4a778",
           "status" : "passed",
           "time" : {
-            "start" : 1581672775908,
-            "stop" : 1581672775920,
-            "duration" : 12
+            "start" : 1581681775533,
+            "stop" : 1581681775543,
+            "duration" : 10
           },
           "flaky" : false,
           "newFailed" : false,
@@ -93,13 +93,13 @@
         "name" : "Story:User registration11",
         "children" : [ {
           "name" : "Verify user Registration11",
-          "uid" : "4a1bad46eb85a7ba",
+          "uid" : "7a5776d260edb9ba",
           "parentUid" : "fd6f011c225175812adf4d78bfdc27a5",
           "status" : "passed",
           "time" : {
-            "start" : 1581672780931,
-            "stop" : 1581672780942,
-            "duration" : 11
+            "start" : 1581681780556,
+            "stop" : 1581681780563,
+            "duration" : 7
           },
           "flaky" : false,
           "newFailed" : false,
